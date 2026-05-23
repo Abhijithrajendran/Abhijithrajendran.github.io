@@ -115,7 +115,7 @@ analytics:
 # Site Author
 author:
   name             : "Abhijith Rajendran"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.png"
   bio              : >-
     My name is Abhijith Rajendran. I was born in Kerala, but moved to Hyderabad when I was just 6 months old and spent most of my life growing up there, now working in Toronto, Canada
   location         : "Toronto, Canada"

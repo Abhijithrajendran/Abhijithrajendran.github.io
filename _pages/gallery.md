@@ -7,8 +7,8 @@ author_profile: true
 
 <style>
 .caption-text {
-  font-size: 10px;
-  color: #666;
+  font-size: 10px; !important;
+  color: #666; !important;
   font-style: italic;
   line-height: 1.6;
 }

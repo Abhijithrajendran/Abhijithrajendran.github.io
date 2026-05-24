@@ -13,4 +13,4 @@ author_profile: true
 
 ![First snow Toronto](/assets/images/photo2.jpg)
 
-<p style="font-size: 12px; color: #666; font-style: italic; line-height: 1.6;">First snow, 2025. Osler and Dupont.</p>
+<p style="font-size: 12px; color: #666; font-style: italic; line-height: 1.6;">Last days of fall, first day of snow. Nov, 2025. Osler and Dupont.</p>

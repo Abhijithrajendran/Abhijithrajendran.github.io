@@ -13,6 +13,6 @@ author_profile: true
 
 ![First snow Toronto](/assets/images/photo2.jpg)
 
-*First snow, 2025.*
+*First snow, 2025. Osler and Dupont*
 
 {% include gallery %}

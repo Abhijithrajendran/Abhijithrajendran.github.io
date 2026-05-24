@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: wide
 title: "About me"
 permalink: /about/
 author_profile: true
